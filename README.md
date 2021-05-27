@@ -20,5 +20,7 @@ Navigation between multiple pages is done through keys "a" and "b".
 
 This test GUI could be integrated with any other module. For test I have integrated with https://github.com/Usmaneeyy/Covid-Stats.git Covid Weather Stats. Updates it using pyqt signal so that it automatically fetches the updated data.
 
+![image](https://github.com/nawalmunif/PyQt5-GUI/blob/df49d490281b08b8d659ead820b7989b6f1e4cc9/Screenshot%20(22).png)
+
 
 PANDEM.py file is the main GUI file.
